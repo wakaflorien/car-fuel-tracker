@@ -40,3 +40,5 @@ Thumbs.db
 *.tar.gz
 *.rar
 .gitignore
+config.bat
+node_modules
